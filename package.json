@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/band-graduate-nnbj0.blank-llegs0un",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve MJVz6Bk1BCEeqpPcSENa --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
